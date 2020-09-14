@@ -1,0 +1,2 @@
+# generator-zyc-vue
+templates
